@@ -1,0 +1,20 @@
+<meta>
+    <info author="_ERAGON_" version="1.0" name="GodLike RPG Utils" description="Some development utils" type="misc"/>
+
+    <!-- Shared -->
+    <script src="class.lua" type="shared" cache="false" validate="true"/>
+    <script src="async.lua" type="shared" cache="false" validate="true"/>
+    <script src="table.lua" type="shared" cache="false" validate="true"/>
+    <script src="importer.lua" type="shared" cache="false" validate="true"/>
+
+    <script src="lumeUtils.lua" type="shared" cache="false" validate="true"/>
+    <script src="check.lua" type="shared" cache="false" validate="true"/>
+    <script src="overriden_functions.lua" type="shared" cache="false" validate="true"/>
+    <script src="useful_functions.lua" type="shared" cache="false" validate="true"/>
+    <!-- Serverside -->
+
+    <!-- ClientSide -->
+
+    <!-- Exports -->
+    <export function="import" type="shared"/>
+</meta>
